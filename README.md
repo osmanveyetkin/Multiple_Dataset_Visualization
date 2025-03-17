@@ -1,19 +1,27 @@
 # Multiple_Dataset_Visualization
+
 🌍 Multiple Dataset Visualization | Data Analytics with Tableau 📊
 
 In this project, I merged multiple datasets in Tableau to conduct comprehensive analyses and create insightful visualizations with Google DA. By combining CO₂ emissions, energy consumption, GDP, and population data, I analyzed per capita CO₂ emissions across countries.
 
 🔗 Explore my Tableau Public work here: on my profile ; Multiple_Dataset_Work
+
 👉 Tableau Public Profile : https://public.tableau.com/app/profile/osman.yetkin/vizzes
 
 📌 About the Project:
+
 ✔ Objective: Integrating multiple data sources to generate meaningful insights.
+
 ✔ Tools Used: Tableau Public
+
 ✔ Key Skills Demonstrated: Data merging, interactive dashboards, trend analysis, and graphical storytelling.
 
 Future Plans:
+
 ✅ Expanding the dataset for deeper insights.
+
 ✅ Developing interactive dashboards with advanced analytics techniques.
+
 ✅ Exploring predictive analytics for data-driven forecasting.
 
 
